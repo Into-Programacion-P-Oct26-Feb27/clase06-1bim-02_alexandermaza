@@ -45,3 +45,6 @@ public class Ejemplo03 {
         
     }
 }
+/* String Format sirve para poder darle nuevos valores a una variable y se
+acumulen para presentar todo en esa variable
+*/
